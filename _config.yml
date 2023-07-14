@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://yungk.github.io
 date_format: "ordinal"
 title: justyang
 subtitle: "班级管理通知"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+description: "班级管理通知"
+keywords: 班级，管理，通知
+timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: yungk/yungk.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Kang yang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: yungk
+location: Zhenjiang, China
+email: 1260500431@qq.com+
 
 # ---------------- #
 #    Navigation    #
