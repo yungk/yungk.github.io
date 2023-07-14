@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 本博客模板常见问题 Q & A
-categories: GitHub
-description: 使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。
+title: 常见问题
+categories: 班级日常
+description: 常见置顶通知信息
 keywords: Jekyll, GitHub Pages
 topmost: true
 ---
