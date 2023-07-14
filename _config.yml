@@ -4,8 +4,8 @@
 baseurl:
 url: https://yungk.github.io
 date_format: "ordinal"
-title: justyang
-subtitle: "班级管理通知"
+title: 班级通知
+subtitle: "班级管理通知群"
 description: "班级管理通知"
 keywords: 班级，管理，通知
 timezone: Asia/Beijing
